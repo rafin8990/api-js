@@ -83,7 +83,7 @@ console.log(numberFunction);
 // practice problem 4-------------------------->
 
 
-/* 
+
 const combineFunction=(input1 , input2)=>{
   const newArray=[]
 newArray.push(...input1, ...input2)
@@ -99,4 +99,4 @@ const array2=[60, 70, 80, 90, 100]
 const result=combineFunction(array1, array2);
 console.log(result)
 
- */
+
